@@ -1,2 +1,2 @@
 # RepoActividad
-Actividad
+Actividad para visualizar la creación del repositorio
